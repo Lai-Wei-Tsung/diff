@@ -1,0 +1,16 @@
+C:\Users\iamha\OneDrive\桌面\git\diff\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+C:\Users\iamha\OneDrive\桌面\git\diff\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+C:\Users\iamha\OneDrive\桌面\git\diff\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+C:\Users\iamha\OneDrive\桌面\git\diff\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\iamha\OneDrive\桌面\git\diff\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+C:\Users\iamha\OneDrive\桌面\git\diff\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+C:\Users\iamha\OneDrive\桌面\git\diff\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+C:\Users\iamha\OneDrive\桌面\git\diff\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\iamha\OneDrive\桌面\git\diff\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iamha\OneDrive\桌面\git\diff\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\iamha\OneDrive\桌面\git\diff\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\iamha\OneDrive\桌面\git\diff\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\iamha\OneDrive\桌面\git\diff\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+C:\Users\iamha\OneDrive\桌面\git\diff\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+C:\Users\iamha\OneDrive\桌面\git\diff\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+C:\Users\iamha\OneDrive\桌面\git\diff\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
